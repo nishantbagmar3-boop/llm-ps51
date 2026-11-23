@@ -1,0 +1,26 @@
+{
+  "patient_info": {
+    "patient_name": "SAMPLE PATIENT TWO",
+    "report_date": "11-Nov-2026"
+  },
+  "tests": [
+    {
+      "test_name": "Fasting Glucose",
+      "value": 92.0,
+      "value_text": null,
+      "unit": "mg/dL",
+      "reference_intervals": [
+        {
+          "minimum": 70.0,
+          "maximum": 100.0,
+          "unit": null,
+          "condition": null
+        }
+      ],
+      "original_value_text": "92 mg/dL",
+      "original_reference_text": "70 - 100",
+      "page_number": null,
+      "extraction_confidence": "high"
+    }
+  ]
+}

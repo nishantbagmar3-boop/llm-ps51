@@ -1,0 +1,37 @@
+{
+  "patient_info": {
+    "patient_name": "SAMPLE PATIENT FIVE",
+    "report_date": "14-Nov-2026"
+  },
+  "tests": [
+    {
+      "test_name": "Vitamin D (25-OH)",
+      "value": 22.4,
+      "value_text": null,
+      "unit": "ng/mL",
+      "reference_intervals": [],
+      "original_value_text": "22.4 ng/mL",
+      "original_reference_text": null,
+      "page_number": null,
+      "extraction_confidence": "high"
+    },
+    {
+      "test_name": "HbA1c",
+      "value": 5.4,
+      "value_text": null,
+      "unit": "%",
+      "reference_intervals": [
+        {
+          "minimum": 4.0,
+          "maximum": 5.6,
+          "unit": "%",
+          "condition": null
+        }
+      ],
+      "original_value_text": "5.4 %",
+      "original_reference_text": "4.0 - 5.6",
+      "page_number": null,
+      "extraction_confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "patient_info": {
+    "patient_name": "SAMPLE PATIENT FOUR",
+    "report_date": "13-Nov-2026"
+  },
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 9.8,
+      "value_text": null,
+      "unit": "g/dL",
+      "reference_intervals": [
+        {
+          "minimum": 12.0,
+          "maximum": 16.0,
+          "unit": "g/dL",
+          "condition": null
+        }
+      ],
+      "original_value_text": "9.8 g/dL",
+      "original_reference_text": "12.0 - 16.0",
+      "page_number": null,
+      "extraction_confidence": "high"
+    },
+    {
+      "test_name": "Total WBC Count",
+      "value": 12.2,
+      "value_text": null,
+      "unit": "x10^3/uL",
+      "reference_intervals": [
+        {
+          "minimum": 4.0,
+          "maximum": 11.0,
+          "unit": "x10^3/uL",
+          "condition": null
+        }
+      ],
+      "original_value_text": "12.2 x10^3/uL",
+      "original_reference_text": "4.0 - 11.0",
+      "page_number": null,
+      "extraction_confidence": "high"
+    },
+    {
+      "test_name": "Platelet Count",
+      "value": 320.0,
+      "value_text": null,
+      "unit": "x10^3/uL",
+      "reference_intervals": [
+        {
+          "minimum": 150.0,
+          "maximum": 450.0,
+          "unit": "x10^3/uL",
+          "condition": null
+        }
+      ],
+      "original_value_text": "320 x10^3/uL",
+      "original_reference_text": "150 - 450",
+      "page_number": null,
+      "extraction_confidence": "high"
+    },
+    {
+      "test_name": "Serum Calcium",
+      "value": 9.1,
+      "value_text": null,
+      "unit": "mg/dL",
+      "reference_intervals": [
+        {
+          "minimum": 8.5,
+          "maximum": 10.5,
+          "unit": "mg/dL",
+          "condition": null
+        }
+      ],
+      "original_value_text": "9.1 mg/dL",
+      "original_reference_text": "8.5 - 10.5",
+      "page_number": null,
+      "extraction_confidence": "high"
+    }
+  ]
+}

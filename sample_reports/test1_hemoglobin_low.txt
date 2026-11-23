@@ -1,0 +1,11 @@
+CITY PATHOLOGY LAB (SYNTHETIC SAMPLE DATA - NOT A REAL PATIENT)
+
+Patient Name : SAMPLE PATIENT ONE
+Report Date  : 10-Nov-2026
+
+HAEMATOLOGY REPORT
+
+Test          Result    Unit     Reference Range
+Hemoglobin    10.5      g/dL     12.0 - 16.0
+
+End of report. Synthetic data for testing only.

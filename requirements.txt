@@ -1,0 +1,9 @@
+streamlit==1.67.0
+google-genai==3.6.1
+PyMuPDF==2.1
+pydantic==2.14.4
+pandas==3.1.1
+plotly==7.1.0
+python-dotenv==1.2.4
+reportlab==5.1.0
+pytest==9.2.0

@@ -1,0 +1,26 @@
+# Secrets — never commit credentials
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artefacts
+*.zip
+build/
+dist/
+
+# Local wheel cache used only during offline installation
+wheelhouse/

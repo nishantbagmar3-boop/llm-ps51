@@ -1,0 +1,14 @@
+CITY PATHOLOGY LAB (SYNTHETIC SAMPLE DATA - NOT A REAL PATIENT)
+
+Patient Name : SAMPLE PATIENT FOUR
+Report Date  : 13-Nov-2026
+
+COMBINED REPORT
+
+Test                Result    Unit        Reference Range
+Hemoglobin          9.8       g/dL        12.0 - 16.0
+Total WBC Count     12.2      x10^3/uL    4.0 - 11.0
+Platelet Count      320       x10^3/uL    150 - 450
+Serum Calcium       9.1       mg/dL       8.5 - 10.5
+
+End of report. Synthetic data for testing only.

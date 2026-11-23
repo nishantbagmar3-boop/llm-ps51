@@ -1,0 +1,11 @@
+CITY PATHOLOGY LAB (SYNTHETIC SAMPLE DATA - NOT A REAL PATIENT)
+
+Patient Name : SAMPLE PATIENT TWO
+Report Date  : 11-Nov-2026
+
+BIOCHEMISTRY REPORT
+
+Test              Result    Unit      Reference Range
+Fasting Glucose   92        mg/dL     70 - 100
+
+End of report. Synthetic data for testing only.

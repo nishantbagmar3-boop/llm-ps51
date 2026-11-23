@@ -1,0 +1,26 @@
+{
+  "patient_info": {
+    "patient_name": "SAMPLE PATIENT ONE",
+    "report_date": "10-Nov-2026"
+  },
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 10.5,
+      "value_text": null,
+      "unit": "g/dL",
+      "reference_intervals": [
+        {
+          "minimum": 12.0,
+          "maximum": 16.0,
+          "unit": "g/dL",
+          "condition": null
+        }
+      ],
+      "original_value_text": "10.5 g/dL",
+      "original_reference_text": "12.0 - 16.0",
+      "page_number": null,
+      "extraction_confidence": "high"
+    }
+  ]
+}

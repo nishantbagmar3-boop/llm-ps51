@@ -1,0 +1,13 @@
+CITY PATHOLOGY LAB (SYNTHETIC SAMPLE DATA - NOT A REAL PATIENT)
+
+Patient Name : SAMPLE PATIENT FIVE
+Report Date  : 14-Nov-2026
+
+SPECIAL TESTS
+
+Test                 Result    Unit      Reference Range
+Vitamin D (25-OH)    22.4      ng/mL
+HbA1c                5.4       %         4.0 - 5.6
+
+Note: no reference interval was supplied by the laboratory for Vitamin D.
+End of report. Synthetic data for testing only.

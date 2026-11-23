@@ -1,0 +1,26 @@
+{
+  "patient_info": {
+    "patient_name": "SAMPLE PATIENT THREE",
+    "report_date": "12-Nov-2026"
+  },
+  "tests": [
+    {
+      "test_name": "Total WBC Count",
+      "value": 13.8,
+      "value_text": null,
+      "unit": "x10^3/uL",
+      "reference_intervals": [
+        {
+          "minimum": 4.0,
+          "maximum": 11.0,
+          "unit": null,
+          "condition": null
+        }
+      ],
+      "original_value_text": "13.8 x10^3/uL",
+      "original_reference_text": "4.0 - 11.0",
+      "page_number": null,
+      "extraction_confidence": "high"
+    }
+  ]
+}
