@@ -2,6 +2,8 @@
 
 **AI-powered blood test report analysis — GenAI (LLM) Mini Project, Problem Statement 51**
 
+Repository: https://github.com/nishantbagmar3-boop/llm-ps51
+
 Upload a blood test report (PDF or TXT) or paste its text. The application:
 
 1. Extracts the report text locally (PyMuPDF for PDFs).
@@ -102,8 +104,8 @@ Requires Python 3.11+ and a (free) Gemini API key.
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd medical-report-explainer
+git clone https://github.com/nishantbagmar3-boop/llm-ps51.git
+cd llm-ps51
 
 # 2. Create and activate a virtual environment
 python -m venv venv
@@ -161,14 +163,18 @@ missing API key, scanned PDF without extractable text.
 
 ## GitHub submission
 
-Repository naming convention: `llm-ps51-<YOUR_ROLL_NUMBER>`
+Live repository: https://github.com/nishantbagmar3-boop/llm-ps51
+(assignment naming convention `llm-ps51-<YOUR_ROLL_NUMBER>` — rename in
+repository Settings once the roll number is added; the old URL redirects.)
+
+The repository was created with:
 
 ```bash
 git init
 git add .
 git commit -m "Medical Report Explainer PS51"
 git branch -M main
-git remote add origin https://github.com/USERNAME/REPOSITORY.git
+git remote add origin https://github.com/nishantbagmar3-boop/llm-ps51.git
 git push -u origin main
 ```
 
